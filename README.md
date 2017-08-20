@@ -32,7 +32,7 @@ Python solutions to Codility tasks: https://codility.com/train/
  - [MinAvgTwoSlice](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%205%20-%20Prefix%20Sums/min_avg_two_slice.py)
  - [GenomicRangeQuery](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%205%20-%20Prefix%20Sums/genomic_range_query.py)
 
-Lesson 6 - Sorting
+**Lesson 6 - Sorting**
 
  - [Distinct](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%206%20-%20Sorting/distinct.py)
  - [MaxProductOfThree](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%206%20-%20Sorting/max_product_of_three.py)
