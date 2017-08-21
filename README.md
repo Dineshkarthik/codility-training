@@ -38,3 +38,10 @@ Python solutions to Codility tasks: https://codility.com/train/
  - [MaxProductOfThree](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%206%20-%20Sorting/max_product_of_three.py)
  - [Triangle](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%206%20-%20Sorting/triangle.py)
  - [NumberOfDiscIntersections](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%206%20-%20Sorting/num_of_disc_intersections.py)
+
+**Lesson 7 - Stacks and Queues**
+
+ - [Brackets](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%207%20-%20Stacks%20and%20Queues/brackets.py)
+ - [Fish](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%207%20-%20Stacks%20and%20Queues/fish.py)
+ - [StoneWall](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%207%20-%20Stacks%20and%20Queues/stone_wall.py)
+ - [Nesting](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%207%20-%20Stacks%20and%20Queues/nesting.py)
