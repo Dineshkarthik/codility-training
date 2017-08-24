@@ -45,3 +45,8 @@ Python solutions to Codility tasks: https://codility.com/train/
  - [Fish](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%207%20-%20Stacks%20and%20Queues/fish.py)
  - [StoneWall](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%207%20-%20Stacks%20and%20Queues/stone_wall.py)
  - [Nesting](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%207%20-%20Stacks%20and%20Queues/nesting.py)
+ 
+**Lesson 8 - Leader**
+
+ - [EquiLeader](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%208%20-%20Leader/equi_leader.py)
+ - [Dominator](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%208%20-%20Leader/dominator.py)
