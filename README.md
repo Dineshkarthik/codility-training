@@ -50,3 +50,9 @@ Python solutions to Codility tasks: https://codility.com/train/
 
  - [EquiLeader](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%208%20-%20Leader/equi_leader.py)
  - [Dominator](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%208%20-%20Leader/dominator.py)
+
+**Lesson 9 - Maximum slice problem**
+
+ - [MaxSliceSum](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%209%20-%20Maximum%20slice%20problem/max_slice_sum.py)
+ - [MaxProfit](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%209%20-%20Maximum%20slice%20problem/max_profit.py)
+ - [MaxDoubleSliceSum](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%209%20-%20Maximum%20slice%20problem/max_double_slice_sum.py)
