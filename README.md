@@ -56,3 +56,10 @@ Python solutions to Codility tasks: https://codility.com/train/
  - [MaxSliceSum](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2009%20-%20Maximum%20slice%20problem/max_slice_sum.py)
  - [MaxProfit](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2009%20-%20Maximum%20slice%20problem/max_profit.py)
  - [MaxDoubleSliceSum](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2009%20-%20Maximum%20slice%20problem/max_double_slice_sum.py)
+
+**Lesson 10 - Prime and composite numbers**
+
+ - [MinPerimeterRectangle](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/min_perimeter_rectangle.py)
+ - [CountFactors](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/count_factors.py)
+ - [Peaks](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/peaks.py)
+ - [Flags](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/flags.py)
