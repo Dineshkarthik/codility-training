@@ -63,3 +63,7 @@ Python solutions to Codility tasks: https://codility.com/train/
  - [CountFactors](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/count_factors.py)
  - [Peaks](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/peaks.py)
  - [Flags](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/flags.py)
+
+**Lesson 11 - Lesson 11 - Sieve of Eratosthenes**
+
+ - [CountNotDivisible](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2011%20-%20Sieve%20of%20Eratosthenes/count_not_divisible.py)
