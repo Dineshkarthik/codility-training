@@ -64,6 +64,11 @@ Python solutions to Codility tasks: https://codility.com/train/
  - [Peaks](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/peaks.py)
  - [Flags](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2010%20-%20Prime%20and%20composite%20numbers/flags.py)
 
-**Lesson 11 - Lesson 11 - Sieve of Eratosthenes**
+**Lesson 11 - Sieve of Eratosthenes**
 
  - [CountNotDivisible](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2011%20-%20Sieve%20of%20Eratosthenes/count_not_divisible.py)
+
+**Lesson 12 - Euclidean algorithm**
+
+ - [ChocolatesByNumbers](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2012%20-%20Euclidean%20algorithm/chocolates_by_numbers.py)
+ - [CommonPrimeDivisors](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2012%20-%20Euclidean%20algorithm/common_prime_divisors.py)
