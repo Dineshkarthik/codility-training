@@ -72,3 +72,8 @@ Python solutions to Codility tasks: https://codility.com/train/
 
  - [ChocolatesByNumbers](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2012%20-%20Euclidean%20algorithm/chocolates_by_numbers.py)
  - [CommonPrimeDivisors](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2012%20-%20Euclidean%20algorithm/common_prime_divisors.py)
+
+**Lesson 13 - Fibonacci numbers**
+
+ - [FibFrog](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2013%20-%20Fibonacci%20numbers/fib_frog.py)
+ - [Ladder](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2013%20-%20Fibonacci%20numbers/ladder.py)
