@@ -77,3 +77,8 @@ Python solutions to Codility tasks: https://codility.com/train/
 
  - [FibFrog](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2013%20-%20Fibonacci%20numbers/fib_frog.py)
  - [Ladder](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2013%20-%20Fibonacci%20numbers/ladder.py)
+
+**Lesson 14 - Binary search algorithm**
+
+ - [MinMaxDivision](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2014%20-%20Binary%20search%20algorithm/min_max_division.py)
+ - [NailingPlanks](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2014%20-%20Binary%20search%20algorithm/nailing_planks.py)
