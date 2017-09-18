@@ -82,3 +82,8 @@ Python solutions to Codility tasks: https://codility.com/train/
 
  - [MinMaxDivision](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2014%20-%20Binary%20search%20algorithm/min_max_division.py)
  - [NailingPlanks](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2014%20-%20Binary%20search%20algorithm/nailing_planks.py)
+
+**Lesson 15 - Caterpillar method**
+
+ - [AbsDistinct](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/abs_distinct.py)
+ - [CountDistinctSlices](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/count_distinct_slices.py)
