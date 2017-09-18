@@ -87,3 +87,5 @@ Python solutions to Codility tasks: https://codility.com/train/
 
  - [AbsDistinct](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/abs_distinct.py)
  - [CountDistinctSlices](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/count_distinct_slices.py)
+ - [CountTriangles](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/count_triangles.py)
+ - [MinAbsSumOfTwo](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/min_abs_sum_of_two.py)
