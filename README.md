@@ -89,3 +89,8 @@ Python solutions to Codility tasks: https://codility.com/train/
  - [CountDistinctSlices](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/count_distinct_slices.py)
  - [CountTriangles](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/count_triangles.py)
  - [MinAbsSumOfTwo](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2015%20-%20Caterpillar%20method/min_abs_sum_of_two.py)
+
+**Lesson 16 - Greedy algorithms**
+
+ - [MaxNonoverlappingSegments](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2016%20-%20Greedy%20algorithms/max_nonoverlapping_segments.py)
+ - [TieRopes](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2016%20-%20Greedy%20algorithms/tie_ropes.py)
