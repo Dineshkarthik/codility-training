@@ -94,3 +94,7 @@ Python solutions to Codility tasks: https://codility.com/train/
 
  - [MaxNonoverlappingSegments](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2016%20-%20Greedy%20algorithms/max_nonoverlapping_segments.py)
  - [TieRopes](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2016%20-%20Greedy%20algorithms/tie_ropes.py)
+
+**Lesson 17 - Dynamic programming**
+
+ - [min_abs_sum.py](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2017%20-%20Dynamic%20programming/min_abs_sum.py)
