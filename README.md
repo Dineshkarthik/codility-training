@@ -98,4 +98,4 @@ Python solutions to Codility tasks: https://codility.com/train/
 **Lesson 17 - Dynamic programming**
 
  - [MinAbsSum](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2017%20-%20Dynamic%20programming/min_abs_sum.py)
- - [number_solitaire.py](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2017%20-%20Dynamic%20programming/number_solitaire.py)
+ - [NumberSolitaire](https://github.com/Dineshkarthik/codility_training/blob/master/Lesson%2017%20-%20Dynamic%20programming/number_solitaire.py)
