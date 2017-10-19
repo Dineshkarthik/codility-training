@@ -17,7 +17,7 @@ N = 10 and M = 30, the prime divisors aren't the same: {2, 5} is not equal to {2
 N = 9 and M = 5, the prime divisors aren't the same: {3} is not equal to {5}.
 Write a function:
 
-def solution(A, B)
+    def solution(A, B)
 
 that, given two non-empty zero-indexed arrays A and B of Z integers,
 returns the number of positions K for which the prime divisors of A[K] and B[K]
@@ -48,7 +48,7 @@ def gcd(a, b):
     return gcd(b, a % b)
 
 def solution(A, B):
-    cnt = 0
+    count = 0
     for i in xrange(len(A)):
         a, b = A[i], B[i]
         g = gcd(a, b)
@@ -62,5 +62,5 @@ def solution(A, B):
             if 1 == d:
                 break
             b /= d
-        cnt += 1 if a == 1 and b == 1 else 0
-    return cnt
+        count += 1 if a == 1 and b == 1 else 0
+    return count
