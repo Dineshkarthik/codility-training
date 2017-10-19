@@ -22,7 +22,7 @@ The goal is to count the number of chocolates that you will eat,
 
 Write a function:
 
-def solution(N, M)
+    def solution(N, M)
 
 that, given two positive integers N and M,
  returns the number of chocolates that you will eat.
