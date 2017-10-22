@@ -15,7 +15,7 @@ the elements at indexes 4 and 6 have value 9,
 the element at index 5 has value 7 and is unpaired.
 Write a function:
 
-int solution(int A[], int N);
+    def solution(A)
 that, given an array A consisting of N integers fulfilling the above conditions
 , returns the value of the unpaired element.
 
