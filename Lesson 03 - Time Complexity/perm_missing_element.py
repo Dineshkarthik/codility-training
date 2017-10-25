@@ -7,7 +7,7 @@ Your goal is to find that missing element.
 
 Write a function:
 
-def solution(A)
+    def solution(A)
 
 that, given a zero-indexed array A, returns the value of the missing element.
 
@@ -27,7 +27,7 @@ each element of array A is an integer within the range [1..(N + 1)].
 Complexity:
 
 expected worst-case time complexity is O(N);
-expected worst-case space complexity is O(1), beyond input storage 
+expected worst-case space complexity is O(1), beyond input storage
 (not counting the storage required for input arguments).
 Elements of input arrays can be modified.
 """
