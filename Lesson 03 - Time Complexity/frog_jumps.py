@@ -10,7 +10,7 @@ Count the minimal number of jumps that the small frog must
 
 Write a function:
 
-def solution(X, Y, D)
+    def solution(X, Y, D)
 
 that, given three integers X, Y and D, returns the minimal number of jumps
  from position X to a position equal to or greater than Y.
@@ -31,8 +31,8 @@ X, Y and D are integers within the range [1..1,000,000,000];
 X ≤ Y.
 Complexity:
 
-expected worst-case time complexity is O(1);
-expected worst-case space complexity is O(1).
+    * expected worst-case time complexity is O(1);
+    * expected worst-case space complexity is O(1).
 
 """
 
