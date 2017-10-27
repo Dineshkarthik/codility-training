@@ -26,7 +26,7 @@ The goal is to find the starting position of a slice whose average is minimal.
 
 Write a function:
 
-def solution(A)
+    def solution(A)
 
 that, given a non-empty zero-indexed array A consisting of N integers,
  returns the starting position of the slice with the minimal average.
@@ -45,20 +45,19 @@ For example, given array A such that:
 the function should return 1, as explained above.
 
 Assume that:
+    N is an integer within the range [2..100,000];
+    each element of array A is an integer within the range [−10,000..10,000].
 
-N is an integer within the range [2..100,000];
-each element of array A is an integer within the range [−10,000..10,000].
 Complexity:
-
-expected worst-case time complexity is O(N);
-expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
-Elements of input arrays can be modified.
+    expected worst-case time complexity is O(N);
+    expected worst-case space complexity is O(N), beyond input storage
+     (not counting the storage required for input arguments).
+    Elements of input arrays can be modified.
 """
 import sys
 
 
 def solution(A):
-
     n = len(A)
     pre_sum = [0] * (n + 1)
     min_slice_avg = sys.maxint
@@ -68,7 +67,8 @@ def solution(A):
         pre_sum[i] = pre_sum[i - 1] + A[i - 1]
 
         # calculate at least 2 prefix sums
-        if i - 2 < 0: continue
+        if i - 2 < 0:
+            continue
 
         # check prev 3 slices if we have calculated 3 prefix sums
         if i >= 3:
