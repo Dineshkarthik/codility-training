@@ -44,7 +44,7 @@ def solution(A):
     n = len(A)
     if n == 0 or A[0] != 1:
         return 1
-    for i in xrange(n - 1):
+    for i in range(n - 1):
         if A[i + 1] - A[i] > 1:
             return A[i] + 1
     return A[n - 1] + 1
