@@ -74,7 +74,7 @@ def solution(K, M, A):
         return min_largest_sum
 
     while min_largest_sum <= max_largest_sum:
-        largest_sum = (min_largest_sum + max_largest_sum) / 2
+        largest_sum = (min_largest_sum + max_largest_sum) // 2
 
         acumulator = 0
         k_counter = 1
