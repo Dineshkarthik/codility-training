@@ -68,4 +68,4 @@ def solution(A):
         if intersections > MAX_RESULT:
             return -1
         active += started - ended
-    return intersections
+    return int(intersections)
