@@ -63,9 +63,9 @@ def solution(A):
     for i, r in enumerate(A):
         started = starts[i]
         ended = ends[i]
-        current = active * started + (started * (started - 1) / 2)
+        current = active * started + (started * (started - 1) // 2)
         intersections += current
         if intersections > MAX_RESULT:
             return -1
         active += started - ended
-    return int(intersections)
+    return intersections
