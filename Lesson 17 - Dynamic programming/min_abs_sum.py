@@ -55,7 +55,7 @@ def solution(A):
     possible[0] = 0
 
     for number in numbers:  # Try each distinct number
-        for trying in xrange(sumOfA // 2 + 1):
+        for trying in range(sumOfA // 2 + 1):
             if possible[trying] >= 0:
                 # Can be reached with previous numbers
                 possible[trying] = numbers[number]
@@ -67,7 +67,7 @@ def solution(A):
     # Divide the A into two parts: P and Q, with restriction P <= Q.
     # So P <= sumOfA // 2 <= Q. We want the largest possible P, so that
     # Q-P is minimized.
-    for halfSum in xrange(sumOfA // 2, -1, -1):
+    for halfSum in range(sumOfA // 2, -1, -1):
         if possible[halfSum] >= 0:
             return sumOfA - halfSum - halfSum
 

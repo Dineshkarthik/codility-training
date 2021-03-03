@@ -90,7 +90,7 @@ def solution(A):
     length = len(A)
 
     # array ends can't be peaks, len < 3 must return 0
-    if len < 3:
+    if length < 3:
         return 0
 
     peaks = [0] * length
@@ -127,6 +127,6 @@ def solution(A):
             valid = False
 
         if valid:
-            return length / candidate
+            return length // candidate
 
     return 0

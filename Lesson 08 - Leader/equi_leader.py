@@ -55,8 +55,8 @@ Elements of input arrays can be modified.
 def solution(A):
     n = len(A)
     d = dict()
-    lv = lk = None
-    for i in xrange(n):
+    lv = lk = 0
+    for i in range(n):
         if A[i] not in d:
             d[A[i]] = 1
         else:
@@ -69,7 +69,7 @@ def solution(A):
     left = 0
     right = lv
     count = 0
-    for i in xrange(n):
+    for i in range(n):
         if A[i] == lk:
             left += 1
             right -= 1

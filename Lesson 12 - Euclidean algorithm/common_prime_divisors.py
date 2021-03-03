@@ -49,7 +49,7 @@ def gcd(a, b):
 
 def solution(A, B):
     count = 0
-    for i in xrange(len(A)):
+    for i in range(len(A)):
         a, b = A[i], B[i]
         g = gcd(a, b)
         while True:

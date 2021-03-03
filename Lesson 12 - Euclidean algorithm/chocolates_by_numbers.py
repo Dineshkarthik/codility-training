@@ -46,6 +46,6 @@ def solution(N, M):
         y = M
         while y != 0:
             (x, y) = (y, x % y)
-        N = N / x
-        M = M / x
+        N = N // x
+        M = M // x
     return N

@@ -38,7 +38,7 @@ def solution(N):
         perimeters = []
         while i * i <= N:
             if N % i == 0:
-                perimeters.append(2 * (i + (N / i)))
+                perimeters.append(2 * (i + (N // i)))
                 i = i + 1
                 continue
             i += 1
