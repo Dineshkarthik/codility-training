@@ -90,15 +90,15 @@ def solution(A, B, C):
     def recursive(begin, end):
         if begin > end:
             return -1
-        index = (begin + end + 1) / 2
+        index = (begin + end + 1) // 2
 
         nails = ELEMENT_MAX_VALUE * [0]
-        for i in xrange(index):
+        for i in range(index):
             nails[C[i]] += 1
 
         partial_sum = ELEMENT_MAX_VALUE * [0]
         partial_sum[0] = nails[0]
-        for i in xrange(1, 2 * M + 1):
+        for i in range(1, 2 * M + 1):
             partial_sum[i] = partial_sum[i - 1] + nails[i]
 
         for a, b in zip(A, B):
