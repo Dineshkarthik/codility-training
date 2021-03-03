@@ -23,10 +23,8 @@ Complexity:
     expected worst-case space complexity is O(1).
 """
 
+from math import ceil, floor
+
 
 def solution(A, B, K):
-    b = B / K
-    a = ((A - 1) / K if A > 0 else 0)
-    if A == 0:
-        b += 1
-    return b - a
+    return floor(B / K) - ceil(A / K) + 1
