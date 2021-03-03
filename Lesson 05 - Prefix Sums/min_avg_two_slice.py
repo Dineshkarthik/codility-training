@@ -60,10 +60,10 @@ import sys
 def solution(A):
     n = len(A)
     pre_sum = [0] * (n + 1)
-    min_slice_avg = sys.maxint
+    min_slice_avg = sys.maxsize
     min_slice_idx = 0
 
-    for i in xrange(1, n + 1):
+    for i in range(1, n + 1):
         pre_sum[i] = pre_sum[i - 1] + A[i - 1]
 
         # calculate at least 2 prefix sums
