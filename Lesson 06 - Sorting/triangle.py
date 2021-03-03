@@ -49,7 +49,7 @@ def solution(A):
 
     A.sort()
 
-    for index in xrange(0, A_len - 2):
+    for index in range(0, A_len - 2):
         if A[index] + A[index + 1] > A[index + 2]:
             return 1
 
