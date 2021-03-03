@@ -73,7 +73,7 @@ Elements of input arrays can be modified.
 def get_fib_seq_up_to_n(N):
     fib = [0] * (27)
     fib[1] = 1
-    for i in xrange(2, 27):
+    for i in range(2, 27):
         fib[i] = fib[i - 1] + fib[i - 2]
         if fib[i] > N:
             return fib[2:i]
@@ -96,7 +96,7 @@ def solution(A):
             reachable[jump - 1] = 1
 
     # iterate all the positions until you reach the other shore
-    for idx in xrange(len(A)):
+    for idx in range(len(A)):
         # ignore non-leafs and already found paths
         if A[idx] == 0 or reachable[idx] > 0:
             continue
