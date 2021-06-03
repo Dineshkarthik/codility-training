@@ -38,11 +38,12 @@ expected worst-case space complexity is O(1), beyond input storage(not counting
  the storage required for input arguments).
 """
 
+
 def solution(A):
     n = len(A)
-    if(A is None or n == 0):
+    if A is None or n == 0:
         return 0
-    if(n == 1):
+    if n == 1:
         return A[0]
     result = 0
     for i in range(0, n):
